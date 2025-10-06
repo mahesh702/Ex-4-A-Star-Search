@@ -56,7 +56,7 @@ print("Path:",astar(g,s,t,h) or "No path found")
 ```
 
 <hr>
-<h2> Graph II</h2>
+<h2> Graph </h2>
 <hr>
 <img width="370" height="397" alt="image" src="https://github.com/user-attachments/assets/16bca95a-b28d-440b-bd5d-d3d5fac658cf" />
 
